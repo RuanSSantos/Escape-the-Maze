@@ -10,7 +10,7 @@
         <agent img="seta.png" x="130" y="220" width="75" height="75" on-touch="_NEXT_PAGE"/>
     </page>
     <page background="monstrer.jpg">
-        <agent text="eita bixo um monstro!"/>
+        <agent text="eita bixo um monstro!" font-size="22" color="red" x="200" y="250"/>
     </page>
     
     <page background="Closed-Chest.png">
