@@ -28,7 +28,11 @@
         <agent text="ta na hora de meter o pau" font-size="22" color="red" x="200" y="250" width="500" height="100" on-touch="_NEXT_PAGE"/>
     </page>
 
-    <page background="Stray.png"
+    <page background="Stray.png">
+        <agent text="morreu bora continuar" font-size="22" color="red" x="200" y="250" width="500" height="100" on-touch="_NEXT_PAGE"/>
+    </page>
+
+    <page background=""
     
     
 </fable>
