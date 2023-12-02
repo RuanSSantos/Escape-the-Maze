@@ -26,9 +26,8 @@
 
     </page>
     
-      
     <page background="left and right.jpg">
-        <agent img="seta.png" x="130" y="220" width="75" height="75" on-touch=""/>
+        <agent img="seta.png" x="130" y="220" width="75" height="75" on-touch="_NEXT_PAGE"/>
     </page>
     
 </fable>
