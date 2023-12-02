@@ -13,6 +13,12 @@
         <agent img="seta.png" x="300" y="220" width="75" height="75" on-touch="_GOTO_PAGE:4"/>
 
     </page>
+    
+    <page background="Open-Chest.png">
+              <agent text="teste" font-size="22" color="red" x="200" y="250" width="500" height="100" />
+
+    </page>
+     </page>
     <page background="Open-Chest.png">
               <agent text="teste" font-size="22" color="red" x="200" y="250" width="500" height="100" />
 
