@@ -32,7 +32,9 @@
         <agent text="morreu bora continuar" font-size="22" color="red" x="200" y="250" width="500" height="100" on-touch="_NEXT_PAGE"/>
     </page>
 
-    <page background=""
+    <page background="escadas-up.png">
+        <agent text="bora de arrasta pra cima" font-size="22" color="red" x="200" y="250" width="500" height="100" on-touch="_NEXT_PAGE"/>
+    </page>
     
     
 </fable>
