@@ -22,7 +22,7 @@
     </page>
      </page>
     <page background="Open-Chest.png">
-              <agent text="Ta aberto uau" font-size="22" color="red" x="200" y="250" width="500" height="100" />
+              <agent text="Ta aberto uau" font-size="22" color="red" x="200" y="250" width="500" height="100" on-touch="_NEXT_PAGE" />
 
     </page>
 </fable>
