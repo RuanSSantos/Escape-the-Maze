@@ -17,7 +17,7 @@
     </page>
     
     <page background="Open-Chest.png"> 4
-              <agent text="Ta aberto uau boh voltar" font-size="22" color="red" x="200" y="250" width="500" height="100" on-touch="_NEXT_PAGE"/>
+        <agent text="Ta aberto uau boh voltar" font-size="22" color="red" x="200" y="250" width="500" height="100" on-touch="_NEXT_PAGE"/>
 
     </page>
     
