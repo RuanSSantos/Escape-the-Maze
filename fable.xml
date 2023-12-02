@@ -25,9 +25,10 @@
         <agent img="seta.png" x="130" y="220" width="75" height="75" on-touch="_NEXT_PAGE"/>
     </page>
     <page background="monstrer.jpg">
-        <agent text="ta na hora de meter o pau" font-size="22" color="red" x="200" y="250" width="500" height="100" on-touch/>
-        
+        <agent text="ta na hora de meter o pau" font-size="22" color="red" x="200" y="250" width="500" height="100" on-touch="_NEXT_PAGE"/>
     </page>
+
+    <page background="Stray.png"
     
     
 </fable>
