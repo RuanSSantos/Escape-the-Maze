@@ -12,4 +12,8 @@
               <agent text="teste" font-size="22" color="red" x="200" y="250" width="500" height="100" />
 
     </page>
+    <page background="Open-Chest.png">
+              <agent text="teste" font-size="22" color="red" x="200" y="250" width="500" height="100" />
+
+    </page>
 </fable>
