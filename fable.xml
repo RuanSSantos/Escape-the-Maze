@@ -1,6 +1,6 @@
 <fable>
 	<page background = "Stray.png">
-      		<agent img="seta.png" x="250" y="250" width="75" height="75" on-touch="_GOTO_PAGE:2" />
+      	<agent img="seta.png" x="250" y="250" width="75" height="75" on-touch="_GOTO_PAGE:2" />
 
     
   </page>
