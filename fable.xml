@@ -1,4 +1,5 @@
 <fable>
     <page background="Stray.png">
+        <agent img = "seta.png" x />
     </page>
 </fable>
