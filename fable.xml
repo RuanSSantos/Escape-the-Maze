@@ -2,7 +2,7 @@
     <page background="Stray.png">
         <agent img="seta.png" x="210" y="250" width="75" height="75" on-touch="_NEXT_PAGE"/>
     </page>
-    <page background="Stray-and-Leaf2.jpg">
-        <agent img="seta.png" x="210" y="250" width="75" height="75"/>
+    <page background="Stray-and-Leaf2.png">
+        <agent img="seta.png" x="300" y="350" width="75" height="75"/>
     </page>
 </fable>
