@@ -3,6 +3,7 @@
         <agent img="seta.png" x="210" y="250" width="75" height="75" on-touch="_NEXT_PAGE"/>
     </page>
     <page background="left and right.jpg".png">
-        <agent img="seta.png" x="300" y="250" width="75" height="75"/>
+        <agent img="seta.png" x="300" y="220" width="75" height="75"/>
+        <agent img="seta.png" x="130" y="220" width="75" height="75"/>
     </page>
 </fable>
