@@ -27,6 +27,7 @@
     </page>
 
     <page background="Stray.png">
-
+        <agent text="temos que ir em outro ligar" font-size="22" color="red" x="200" y="250" width="500" height="100">
+>   </page>
     
 </fable>
