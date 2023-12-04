@@ -32,8 +32,8 @@
         <agent text="." font-size="1" color="black" x="0" y="0" width="500" height="500" on-touch="_NEXT_PAGE" />
     </page>
     
-    <page background="Stray-and-Left.png">
-        <agent img="setaesquerda.png" x="130" y="210" width="75" height="55" on-touch="_NEXT_PAGE"/>
+    <page background="Stray-and-Leaf2.jpg">
+        <agent img="setareta.png" x="210" y="230" width="75" height="30" on-touch="_NEXT_PAGE"/>
     </page>
     <page background="monstrer.jpg">
         <agent text="ta na hora de meter o pau" font-size="22" color="red" x="200" y="250" width="500" height="100" on-touch="_NEXT_PAGE"/>
