@@ -41,7 +41,7 @@
         <agent img="inventario.png" x="150" y="450" width="200" height="50"/>
         <agent img="Espada2.png" x="160" y="457" width="33" height="35" draggable="true"/>
         <agent text="." font-size="0" x="200" y="120" width="100" height="220" drop-zone="hitbox">
-            <hitbox img="Stray.png" w>
+            <hitbox img="Stray.png" x="0" y="0" width="500" height="500">
         </agent>
         
     </page>
