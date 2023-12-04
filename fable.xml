@@ -91,7 +91,7 @@
     </page>
 
     <page background="escuridao.png">
-            <agent video="https://streamable.com/7tekh3?src=player-page-share" x="50" y="50" width="300" height="300"/>
+            <agent video="https://streamable.com/7tekh3?src=player-page-share" x="0" y="0" width="500" height="500"/>
     </page>
     
     
