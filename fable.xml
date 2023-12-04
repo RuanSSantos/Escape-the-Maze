@@ -13,7 +13,7 @@
     
     <page background="Closed-Chest.png">
               <agent text="abre ai" font-size="22" color="red" x="200" y="250" width="500" height="100" />
-        <agent img="seta.png" x="300" y="220" width="75" height="75" on-touch="_GOTO_PAGE:5"/>
+        <agent img="BauFechado.png" x="300" y="220" width="75" height="75" on-touch="_GOTO_PAGE:5"/> 
 
     </page>
      
