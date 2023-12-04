@@ -78,7 +78,7 @@
         <agent img="inventario.png" x="150" y="450" width="200" height="50"/>
         <agent img="Espada2.png" x="160" y="457" width="33" height="35" />
         <agent img="Escadas.png" x="95" y="2" width="311" height="122" on-touch="balao2"/>
-        <agent img="setareta.png" 
+        <agent img="setareta.png" x="210" y="230" width="75" height="30" on-touch="_NEXT_PAGE"/>
     </page>
     
     
