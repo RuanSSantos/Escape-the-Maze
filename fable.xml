@@ -44,7 +44,8 @@
         <agent img="setareta.png" x="210" y="230" width="75" height="30" on-touch="_NEXT_PAGE"/>
     </page>
     <page background="monstrer.jpg">
-        <agent img="balaomonstro01.png" x="95" y="2" width="311" height="122"on-touch="balaoMonstro01">
+        <agent img="balaomonstro01.png" x="95" y="2" width="311" height="122" on-touch="balaoMonstro01">
+            <balaoMonstro01 img="balaomonstro02" on-touch=""/>
             
         </agent>
         <agent img="inventario.png" x="150" y="450" width="200" height="50"/>
