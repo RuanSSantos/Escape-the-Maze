@@ -1,7 +1,7 @@
 <fable>
     <page background="Stray.png">
         <agent img="balao01.png" x="95" y="2" width="311" height="122" on-touch="balao2">
-            <balao2 img="balao02.png"/>
+            <balao2 img="balao02.png" x/>
         </agent>
         
     </page>
