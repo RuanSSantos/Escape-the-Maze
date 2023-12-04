@@ -82,7 +82,9 @@
         <agent img="setareta.png" x="210" y="230" width="75" height="60" on-touch="_NEXT_PAGE"/>
     </page>
 
-    <page background
+    <page background="escuridao.png" soundtrack="VazioFinal-1.mp3">
+    
+    </page>
     
     
     
