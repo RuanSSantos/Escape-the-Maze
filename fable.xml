@@ -1,10 +1,9 @@
 <fable>
-    <page background="Stray.png">1
-       <agent text="teste" font-size="22" color="red" x="200" y="250" width="500" height="100"/>
+    <page background="Stray.png">
         <agent img="seta.png" x="210" y="250" width="75" height="75" on-touch="_NEXT_PAGE"/>
     </page>
     
-    <page background="left and right.jpg">2
+    <page background="left and right.jpg">
         <agent img="seta.png" x="300" y="220" width="75" height="75" on-touch="_GOTO_PAGE:4"/>
         <agent img="seta.png" x="130" y="220" width="75" height="75" on-touch="_NEXT_PAGE"/>
     </page>
