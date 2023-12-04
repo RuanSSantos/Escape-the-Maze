@@ -43,7 +43,7 @@
             <hitbox y="-500"/>
         </agent>
         <agent img="Espada2.png" x="160" y="457" width="33" height="35" draggable="true" on-drop="explode" on-zone="backToInventory">
-            <backToInventory 
+            <backToInventory x="160" y="457" draggable="false"/>
         </agent>
         
         
