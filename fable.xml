@@ -80,6 +80,8 @@
         <agent img="Escadas.png" x="95" y="2" width="311" height="122" on-touch="balao2"/>
         <agent img="setareta.png" x="210" y="230" width="75" height="60" on-touch="_NEXT_PAGE"/>
     </page>
+
+    
     
     
 </fable>
