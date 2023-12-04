@@ -9,18 +9,20 @@
     
     <page background="left and right.jpg">
         <agent img="balao04.png" x="95" y="2" width="311" height="122"/>
-        <agent img="setadireita.png" x="300" y="210" width="75" height="55" on-touch="_GOTO_PAGE:4"/>
+        <agent img="setadireita.png" x="300" y="210" width="75" height="55" on-touch="_GOTO_PAGE:5"/>
         <agent img="setaesquerda.png" x="130" y="210" width="75" height="55" on-touch="_NEXT_PAGE"/>
     </page>
+    
     <page background="monstrer.jpg">
         <agent img="balaomonstro01.png" x="95" y="2" width="311" height="122" on-touch="balao2">
-            <balao2 img="balaomonstro02.png" on-touch="balao3"/>
+            <balao2 img="balaomonstro02.png" on-touch="_NEXT_PAGE"/>
         </agent>
     </page>
     
+    
     <page background="Closed-Chest.png">
         <agent img="BauFechado.png" x="95" y="2" width="311" height="122"/>
-        <agent img="abrir.png" x="327" y="123" width="78" height="106" on-touch="_GOTO_PAGE:5"/> 
+        <agent img="abrir.png" x="327" y="123" width="78" height="106" on-touch="_NEXT_PAGE"/> 
 
     </page>
      
