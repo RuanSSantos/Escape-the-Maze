@@ -89,6 +89,11 @@
     <page background="escuridao.png" soundtrack="VazioFinal.mp3">
         <agent img="Final02.png" x="95" y="2" width="311" height="122" on-touch="_NEXT_PAGE"/>
     </page>
+
+    <page background="escuridao.png">
+        <agent img="Final02.png" x="95" y="2" width="311" height="122"/>
+    </page>
+    
     
     
     
