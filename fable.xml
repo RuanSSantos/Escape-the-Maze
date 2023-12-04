@@ -25,7 +25,8 @@
     </page>
     
     <page background="Open-Chest.png">
-        <agent img="inventario.png" x="155" y="450" width="200" height="50"/>
+        <agent img="inventario.png" x="150" y="450" width="200" height="50"/>
+        <agent img="Espada2.png" x="160" y="460" width="35" height="80"/>
         <agent img="bauAberto2.png" x="95" y="2" width="311" height="122"/>
         <agent img="skip.png" x="380" y="14" width="15" height="15"/>
         <agent text="." font-size="1" color="black" x="0" y="0" width="500" height="500" on-touch="_NEXT_PAGE" />
