@@ -16,13 +16,13 @@
     
     <page background="monstrer.jpg">
         <agent img="balaomonstro01.png" x="95" y="2" width="311" height="122" on-touch="balao2">
-            <balao2 img="balaomonstro02.png" on-touch="_GOTO_PAGE:2"/>
+            <balao2 img="balaomonstro02.png" on-touch="_NEXT_PAGE"/>
         </agent>
     </page>
 
-    <page background="monstrer.jpg">
+    <page background="Stray.png">
         <agent img="monstrobad01.png" x="95" y="2" width="311" height="122" on-touch="balao2">
-            <balao2 img="voltaraoinicio.png" on-touch="_NEXT_PAGE"/>
+            <balao2 img="voltaraoinicio.png" on-touch="_GOTO_PAGE:2"/>
         </agent>
     </page>
     
