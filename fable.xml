@@ -19,7 +19,7 @@
      
     <page background="Open-Chest.png">
         <agent img="bauAberto.png" x="95" y="2" width="311" height="122"/>
-        <agent img="" x="250" y="250" width="40" height="100"/>
+        <agent img="Espada2.png" x="200" y="230" width="80" height="80"/>
         <agent text="." font-size="1" color="black" x="0" y="0" width="500" height="500" on-touch="_NEXT_PAGE" />
     </page>
     
