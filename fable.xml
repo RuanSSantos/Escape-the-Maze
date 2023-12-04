@@ -3,7 +3,7 @@
         <agent img="balao01.png" x="95" y="2" width="311" height="122" on-touch="balao2">
             <balao2 img="balao02.jpeg" on-touch="balao3"/>
             <balao3 img="balao03.png" on-touch=/>
-            <balao3 img"setareta.png" x="210" y="230" width="75" height="30" on-touch="_NEXT_PAGE"/>
+            <balao3 img="setareta.png" x="210" y="230" width="75" height="30" on-touch="_NEXT_PAGE"/>
         </agent>
         
     </page>
