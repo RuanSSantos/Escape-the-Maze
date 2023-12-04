@@ -14,7 +14,7 @@
         <agent img="setaesquerda.png" x="130" y="210" width="75" height="55" on-touch="_NEXT_PAGE"/>
     </page>
     
-    <page background="monstrer.jpg">
+    <page background="monstrer.jpg" soundtrack="monstroFind.mp3">
         <agent img="balaomonstro01.png" x="95" y="2" width="311" height="122" on-touch="balao2">
             <balao2 img="balaomonstro02.png" on-touch="_NEXT_PAGE"/>
         </agent>
@@ -54,7 +54,7 @@
         <agent img="setareta.png" x="210" y="230" width="75" height="30" on-touch="_NEXT_PAGE"/>
     </page>
     
-    <page background="monstrer.jpg">
+    <page background="monstrer.jpg" soundtrack="monstroFind.mp3">
         <agent img="balaomonstro01.png" x="95" y="2" width="311" height="122" on-touch="balao2">
             <balao2 img="balaomonstro02.png" on-touch="balao3"/>
             <balao3 img="balaomonstro03.png"/> 
@@ -66,7 +66,7 @@
         
     </page>
 
-    <page background="Stray.png">
+    <page background="Stray.png" soundtrack="Inicio.mp3">
         <agent img="balaomonstro04.png" x="95" y="2" width="311" height="122" on-touch="balao2">
             <balao2 img="emFrente.png" on-touch="balao3"/>
             <balao3 img="setareta.png" x="210" y="230" width="75" height="30" on-touch="_NEXT_PAGE"/> 
@@ -75,7 +75,7 @@
         <agent img="Espada2.png" x="160" y="457" width="33" height="35" />
     </page>
 
-    <page background="escadas-up.png">
+    <page background="escadas-up.png" soundtrack="mudançadeCena.mp3">
         <agent img="inventario.png" x="150" y="450" width="200" height="50"/>
         <agent img="Espada2.png" x="160" y="457" width="33" height="35" />
         <agent img="Escadas.png" x="95" y="2" width="311" height="122" on-touch="balao2"/>
