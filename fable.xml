@@ -45,8 +45,8 @@
     </page>
     <page background="monstrer.jpg">
         <agent img="balaomonstro01.png" x="95" y="2" width="311" height="122" on-touch="balao2">
-            <balao2 img="balao02.jpeg" on-touch="balao3"/>
-            <balao3 img="balao003.png" x="92" y="0" width="317" height="268" on-touch="_NEXT_PAGE"/>
+            <balao2 img="balaomonstro02.png" on-touch="balao3"/>
+            <balao3 img="balaomonstro03.png"/>
         </agent>
         <agent img="inventario.png" x="150" y="450" width="200" height="50"/>
         <agent img="HD_transparent_picture.png" x="200" y="120" width="100" height="220" drop-zone="hitbox"/>
