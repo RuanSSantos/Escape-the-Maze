@@ -4,8 +4,8 @@
     </page>
     
     <page background="left and right.jpg">
-        <agent img="set" x="300" y="220" width="75" height="75" on-touch="_GOTO_PAGE:4"/>
-        <agent img="seta.png" x="130" y="320" width="75" height="75" on-touch="_NEXT_PAGE"/>
+        <agent img="setadireita.png" x="300" y="210" width="75" height="55" on-touch="_GOTO_PAGE:4"/>
+        <agent img="setaesquerda.png" x="130" y="210" width="75" height="65" on-touch="_NEXT_PAGE"/>
     </page>
     <page background="monstrer.jpg">
         <agent text="eita bixo um monstro!" font-size="22" color="red" x="150" y="250" on-touch="_NEXT_PAGE"/>
