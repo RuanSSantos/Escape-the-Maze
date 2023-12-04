@@ -87,11 +87,11 @@
     </page>
     
     <page background="escuridao.png" soundtrack="VazioFinal.mp3">
-        <agent img="Final02.png" x="95" y="2" width="311" height="122" on-touch="_NEXT_PAGE"/>
+        <agent img="" x="95" y="2" width="311" height="122" on-touch="_NEXT_PAGE"/>
     </page>
 
     <page background="escuridao.png">
-        <agent img="Final02.png" x="95" y="2" width="311" height="122"/>
+            <agent video="mov.mp4" x="50" y="50" width="300" height="300"/>
     </page>
     
     
