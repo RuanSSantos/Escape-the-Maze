@@ -1,10 +1,10 @@
 <fable>
     <page background="Stray.png">
-        <agent img="setaReta.p" x="210" y="250" width="75" height="75" on-touch="_NEXT_PAGE"/> 
+        <agent img="setareta.png" x="210" y="230" width="75" height="30" on-touch="_NEXT_PAGE"/> 
     </page>
     
     <page background="left and right.jpg">
-        <agent img="seta.png" x="300" y="220" width="75" height="75" on-touch="_GOTO_PAGE:4"/>
+        <agent img="set" x="300" y="220" width="75" height="75" on-touch="_GOTO_PAGE:4"/>
         <agent img="seta.png" x="130" y="320" width="75" height="75" on-touch="_NEXT_PAGE"/>
     </page>
     <page background="monstrer.jpg">
