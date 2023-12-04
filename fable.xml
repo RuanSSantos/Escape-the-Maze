@@ -12,13 +12,13 @@
     </page>
     
     <page background="Closed-Chest.png">
-              <agent text="abre ai" font-size="22" color="red" x="200" y="250" width="500" height="100" />
         <agent img="BauFechado.png" x="95" y="2" width="311" height="122"/>
         <agent img="abrir.png" x="327" y="123" width="78" height="106" on-touch="_GOTO_PAGE:5"/> 
 
     </page>
      
     <page background="Open-Chest.png">
+        <agent img="BauFechado.png" x="95" y="2" width="311" height="122"/>
               <agent text="." font-size="1" color="black" x="0" y="0" width="500" height="500" on-touch="_NEXT_PAGE" />
     </page>
     
