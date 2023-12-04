@@ -1,6 +1,6 @@
 <fable>
     
-    <page background="Stray.png">
+    <page background="Stray.png" soundtrack="Inicio.mp3">
         <agent img="balao01.png" x="95" y="2" width="311" height="122" on-touch="balao2">
             <balao2 img="balao02.jpeg" on-touch="balao3"/>
             <balao3 img="balao003.png" x="92" y="0" width="317" height="268" on-touch="_NEXT_PAGE"/>
@@ -8,7 +8,7 @@
         
     </page>
     
-    <page background="left and right.jpg">
+    <page background="left and right.jpg" soundtrack="mudançadeCena.mp3">
         <agent img="balao04.png" x="95" y="2" width="311" height="122"/>
         <agent img="setadireita.png" x="300" y="210" width="75" height="55" on-touch="_GOTO_PAGE:5"/>
         <agent img="setaesquerda.png" x="130" y="210" width="75" height="55" on-touch="_NEXT_PAGE"/>
@@ -20,13 +20,13 @@
         </agent>
     </page>
 
-    <page background="Stray.png">
+    <page background="Stray.png" soundtrack="mudançadeCena.mp3">
         <agent img="monstrobad01.png" x="95" y="2" width="311" height="122" on-touch="balao2">
             <balao2 img="voltaraoinicio.png" on-touch="_GOTO_PAGE:2"/>
         </agent>
     </page>
     
-    <page background="Closed-Chest.png">
+    <page background="Closed-Chest.png" soundtrack="mudançadeCena.mp3">
         <agent img="BauFechado.png" x="95" y="2" width="311" height="122"/>
         <agent img="abrir.png" x="327" y="123" width="78" height="106" on-touch="_NEXT_PAGE"/> 
 
