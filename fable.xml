@@ -1,5 +1,9 @@
 <fable>
     <page background="Stray.png">
+        <agent img=
+        
+    </page>
+    <page background="Stray.png">
         <agent img="setareta.png" x="210" y="230" width="75" height="30" on-touch="_NEXT_PAGE"/>
     </page>
     
