@@ -2,7 +2,7 @@
     <page background="Stray.png">
         <agent img="balao01.png" x="95" y="2" width="311" height="122" on-touch="balao2">
             <balao2 img="balao02.jpeg" on-touch="balao3"/>
-            <balao3 img="balao003.png" x="183" on-touch="_NEXT_PAGE"/>
+            <balao3 img="balao003.png" x="96" y="2" width="317" height="268" on-touch="_NEXT_PAGE"/>
         </agent>
         
     </page>
