@@ -18,7 +18,12 @@
             <balao2 img="balaomonstro02.png" on-touch="_NEXT_PAGE"/>
         </agent>
     </page>
-    
+
+    <page background="monstrer.jpg">
+        <agent img="monstrobad01.png" x="95" y="2" width="311" height="122" on-touch="balao2">
+            <balao2 img="voltaraoinicio.png" on-touch="_NEXT_PAGE"/>
+        </agent>
+    </page>
     
     <page background="Closed-Chest.png">
         <agent img="BauFechado.png" x="95" y="2" width="311" height="122"/>
